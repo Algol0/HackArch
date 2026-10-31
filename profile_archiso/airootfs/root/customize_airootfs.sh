@@ -2,7 +2,7 @@
 
 set -e
 
-USUARIO="zodiak"
+USUARIO="algol0"
 if ! id $USUARIO >/dev/null 2>&1; then
     useradd \
         -m \
