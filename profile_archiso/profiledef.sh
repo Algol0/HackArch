@@ -1,6 +1,6 @@
 iso_name="hackarch"
 iso_label="HACKARCH_LIVE"
-iso_publisher="ZodiakDrinker"
+iso_publisher="Algol0"
 iso_application="HackArch Live Pentesting OS"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
